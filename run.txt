@@ -1,0 +1,31 @@
+                           Upload Information Template for Hobbes.nmsu.edu
+                           ===============================================
+
+            Archive Name:  run.zip
+       Short Description:  Simple PM program launcher simliar to the winxx run dialog
+        Long Description:  Run.exe is a simple program launcher simliar to the win9x run 
+			    dialog.  It will store the last 10 commands you ran.  It is set up 
+			    to open a file with the default association or to run a program if a 
+			    program is passed.  If the browsers are entered, it will also launch 
+			    your browser and try to connect to a URL if http, www., ftp: or 
+			    ftp. are the first four characters entered.
+      Proposed directory
+           for placement:  /pub/os2/util/wps
+
+               Your name:  J. Pedone
+           Email address:  jpedone@flash.net
+    Program contact name:  (same)
+   Program contact email:  (same)
+        Program homepage:  (none)
+
+      Would you like the
+     contact information
+                included?  yes
+
+Operating System/Version:  OS/2 REXX
+ Additional requirements:  
+
+                Replaces:  run.zip
+
+
+
